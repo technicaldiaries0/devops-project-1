@@ -8,9 +8,9 @@ cidr_public_subnet   = ["10.0.1.0/24", "10.0.2.0/24"]
 cidr_private_subnet  = ["10.0.3.0/24", "10.0.4.0/24"]
 eu_availability_zone = ["eu-central-1a", "eu-central-1b"]
 
-public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDwmgMHFJE7J4qepIzAZL3/yC6J0zsEAb/oHYL+WBBDNUjSH4TeHUnHVNe9b/pyPcub+O/HNvlGrzSxUp0xT0b3O7kkTtgBKiG8NaBbonj+c7byfOGER80DYxc5adlBltuIDd8StFe7OMzbYyUSr1mdxDTIWm/OoE39G/fu3hTqUGkykv072GAy8nMFejITRw9pf+53B9ziE5rsdOUH4uqBiQa/Ng/qKo7h9MtJGcloRATYiObXwAgrHtt3sDrtvkq2ZceT906/BJm1Twlm+BHlQecHV18Ak3bzm/6HzlsA/q+yORsoB+VxSUxvVy0nXTc1X8vJAD4KSYVL5DTrpisdnQAIcuqAbea+LMku2o4sdnrrIlUi8/8BXeVbI4TNNGd0+sWpCVcDEhb4gyA/XXTvloQyjTYrL4+am/9XEY6NGdsrPK74sjvtpUZPUrmzTJ/mJWG5ncGY88GAj+YZAsY5pnAqh2CkR2TUpglugldnWyrppbe2QyC9iQkgUGSkBTs= rahulwagh@Rahuls-MacBook-Pro.local"
+public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDVKdmDS4OO1UhZjtQhZh8j8cY2466Ai0u29fI4tWV5Y5YaAYSpkpFr7olDpJxFLU5utA1bTxQY/b5zIcBK1pnjTR/FqYNWa92kKKEMAsJpC9+ekCvNsvWxp6hIDf00XcqnDXhVJSRZcxTwdHpBsM3O6eqMInQsZ70MbNrbNueJp6JMVa+o167dYZp8tgo1I/3eky16vNRn0dSzjw4MNguweiPLUd8q37jZXf1Q7Zz7j3X4GORvpgV/whZCX/2OUMAoops8GfDsZKKJ2Ex6qWMJw8GEQ9AOe+Yh6v2IXvLd7wRjTRIT05MTABrvLBKZ3strp85WoW34CdjW/QsoG6AFGWXtuq1+JbMiO81NSyZqGmxf6v40AdsVd7mW/ZJH/lxO/8wrjMWZO5I76onb2qMAwrXzN7nto3CNrK54kJjUuZVNm/pyZvsi+Cu35RraPHuCD2EFFjbNLtkJHVdtJyl4nSLLtPiXepYQttAcJFoT8b6ZrRLe1muy9bYQ20HaSMU= vaibhav@vaibhavs-MacBook-Pro.local"
 ec2_ami_id     = "ami-06dd92ecc74fdfb36"
 
-ec2_user_data_install_apache = ""
+#ec2_user_data_install_apache = ""
 
-domain_name = "jhooq.org"
+domain_name = "technovamedia.online"
