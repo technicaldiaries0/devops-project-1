@@ -18,6 +18,7 @@ pipeline {
                     url: 'https://github.com/rahulwagh/devops-project-1.git'
 
                 sh "ls -lart"
+                sh "terraform --version"
             }
         }
 
